@@ -6,7 +6,7 @@ Análisis y preprocesamiento de datos de Renfe para el desarrollo de un modelo d
 
 Este proyecto se centra en el análisis de datos de Renfe, la principal operadora ferroviaria de España. A través de técnicas de análisis de datos y aprendizaje automático, buscamos extraer información valiosa y patrones que puedan ser útiles para diversas aplicaciones, como la predicción de precios o la optimización de rutas.
 
-## Estructura del Repositorio
+## 📂 Estructura del Repositorio
 
 El repositorio está organizado de la siguiente manera:
 - `data/`: Contiene los conjuntos de datos utilizados en el proyecto.
@@ -18,3 +18,7 @@ El repositorio está organizado de la siguiente manera:
 - `gitignore`: Especifica los archivos y directorios que Git debe ignorar.
 - `LICENSE`: Archivo de licencia del proyecto.
 - `README.md`: Este archivo, que proporciona una visión general del proyecto.
+
+---
+
+### 👩🏻‍💻 Proyecto elaborado por Alejandra Vaquero durante el [Máster en Data Science & AI](https://nuclio.school/master-data-science/) de [Nuclio Digital School](https://nuclio.school/).
